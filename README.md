@@ -11,6 +11,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parilia&show_icons=true&theme=gruvbox)](https://github.com/Parilia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parilia&show_icons=true&theme=gruvbox)](#)
 
 
