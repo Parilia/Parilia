@@ -11,6 +11,7 @@
 
 <br>
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parilia&show_icons=true&theme=gruvbox)](#)
-
+-->
 
