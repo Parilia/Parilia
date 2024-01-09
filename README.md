@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on not prorcastinating soo much and perfecting my neovim config
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning rust
 - 📝 I regularly write articles on <a href="https://parilia.github.io/">https://parilia.github.io</a>
 
 - 📫 How to reach me: My upto date details are on my about me page on my website
