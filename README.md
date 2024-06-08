@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I have officially moved a lot of my repos to: https://git.parilia.dev/Parilia
-#### I will keep the repos here open for th time being but only the big ones will receive updates on here.
+#### I will keep the repos here open for the time being but only the big ones will receive updates on here.
 
 - 🔭 I’m currently working on not prorcastinating soo much and perfecting my neovim config
 - 🌱 I’m currently learning Rust
