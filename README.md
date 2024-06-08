@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### I have officially moved a lot of my repos to: https://git.parilia.dev/Parilia
 
 - 🔭 I’m currently working on not prorcastinating soo much and perfecting my neovim config
 - 🌱 I’m currently learning Rust
